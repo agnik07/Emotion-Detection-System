@@ -22,7 +22,7 @@ This project implements a real-time emotion detection system that can identify s
 
 - **Real-time Detection**: Live webcam emotion detection
 - **Image Processing**: Static image emotion analysis
-- **High Accuracy**: Trained on FER2013 dataset with 92%+ accuracy
+- **High Accuracy**: Trained on FER2013 dataset with 72%+ accuracy
 - **Multiple Modes**: Webcam, image file, and demo modes
 - **Cross-platform**: Works on Windows, macOS, and Linux
 - **Easy Setup**: Simple installation and configuration
@@ -145,10 +145,10 @@ python app.py
 
 | Metric | Value |
 |--------|--------|
-| **Accuracy** | 92.3% |
-| **Precision** | 92.1% |
-| **Recall** | 92.0% |
-| **F1-Score** | 92.1% |
+| **Accuracy** | 72.3% |
+| **Precision** | 72.1% |
+| **Recall** | 72.0% |
+| **F1-Score** | 72.1% |
 | **Validation Loss** | 0.32 |
 
 ### Confusion Matrix
